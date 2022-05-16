@@ -1,6 +1,7 @@
 #ignore files
-resources/
-
+movies_metadata.csv
+ratings.csv
+config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
